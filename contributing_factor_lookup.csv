@@ -1,0 +1,62 @@
+contributing_factor_vehicle_1,accident_reason
+Unspecified,unknown
+Driver Inattention/Distraction,driver_distraction
+Failure to Yield Right-of-Way,breaking_traffic_rules
+Backing Unsafely,driver_fault
+Other Vehicular,other_vehicle_fault
+Following Too Closely,driver_fault
+Turning Improperly,driver_fault
+Passing Too Closely,driver_fault
+Passing or Lane Usage Improper,driver_fault
+Fatigued/Drowsy,driver_fatigue
+Traffic Control Disregarded,breaking_traffic_rules
+Driver Inexperience,driver_fault
+Lost Consciousness,driver_sick
+Unsafe Lane Changing,driver_fault
+Prescription Medication,driver_sick
+Alcohol Involvement,alcohal_or_drugs
+Pavement Slippery,external_factor
+Unsafe Speed,breaking_traffic_rules
+Oversized Vehicle,driver_fault
+View Obstructed/Limited,external_factor
+Physical Disability,driver_sick
+Outside Car Distraction,driver_distraction
+Reaction to Uninvolved Vehicle,driver_distraction
+Passenger Distraction,driver_distraction
+Aggressive Driving/Road Rage,driver_fault
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,driver_fault
+Brakes Defective,vehicle_malfunction
+Fell Asleep,driver_fatigue
+Glare,external_factor
+Obstruction/Debris,external_factor
+Failure to Keep Right,driver_fault
+Illness,driver_sick
+Other Electronic Device,driver_distraction
+Steering Failure,vehicle_malfunction
+Pavement Defective,external_factor
+Reaction to Other Uninvolved Vehicle,driver_distraction
+Tire Failure/Inadequate,vehicle_malfunction
+Animals Action,external_factor
+Driverless/Runaway Vehicle,external_factor
+Illnes,driver_sick
+Accelerator Defective,vehicle_malfunction
+Lane Marking Improper/Inadequate,external_factor
+Traffic Control Device Improper/Non-Working,external_factor
+Drugs (illegal),alcohal_or_drugs
+Drugs (Illegal),alcohal_or_drugs
+Cell Phone (hand-Held),driver_distraction
+Cell Phone (hands-free),driver_distraction
+Tow Hitch Defective,vehicle_malfunction
+Other Lighting Defects,vehicle_malfunction
+Headlights Defective,vehicle_malfunction
+Vehicle Vandalism,external_factor
+Tinted Windows,driver_fault
+Cell Phone (hand-held),driver_distraction
+Eating or Drinking,driver_distraction
+Using On Board Navigation Device,driver_distraction
+Shoulders Defective/Improper,driver_sick
+Windshield Inadequate,vehicle_malfunction
+80,driver_distraction
+Texting,driver_distraction
+Listening/Using Headphones,driver_distraction
+1,driver_distraction
