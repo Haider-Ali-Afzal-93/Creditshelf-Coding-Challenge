@@ -1,4 +1,4 @@
-# Creditshelf Coding Challenge
+# NY-Traffic-Collision
 Steps for running the Analysis:-
 1. Fetch or Download the repository
 2. Download and Install Anaconda(If not already installed) from https://www.anaconda.com/products/individual
